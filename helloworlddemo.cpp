@@ -5,6 +5,6 @@ int main()
 {
     cout<<"hello guys"<<endl;
 
-    return=0;
+    return 0;
 
 }
